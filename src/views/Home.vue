@@ -22,7 +22,7 @@
                 <v-spacer></v-spacer>
                 <v-btn icon><v-icon>edit</v-icon></v-btn>
               </v-card-actions>
-              <v-img src="11.png" width="150" height="150"></v-img>
+              <v-img src="11.PNG" width="150" height="150"></v-img>
               <v-card-text class="blue-grey--text">Color Mixed 2019</v-card-text>
               <v-expand-transition>
                 <div v-if="hover" class="d-flex transition-fast-in-fast-out green v-card-reveal display-3 white--text" style="height: 100%">
@@ -44,7 +44,7 @@
                 <v-spacer></v-spacer>
                 <v-btn icon><v-icon>edit</v-icon></v-btn>
               </v-card-actions>
-              <v-img src="22.png" width="150" height="150"></v-img>
+              <v-img src="22.PNG" width="150" height="150"></v-img>
               <v-card-text class="blue-grey--text">Color Mixed 2018</v-card-text>
               <v-expand-transition>
                 <div v-if="hover" class="d-flex transition-fast-in-fast-out green v-card-reveal display-3 white--text" style="height: 100%">
@@ -66,7 +66,7 @@
                 <v-spacer></v-spacer>
                 <v-btn icon><v-icon>edit</v-icon></v-btn>
               </v-card-actions>
-              <v-img src="33.png" width="150" height="150"></v-img>
+              <v-img src="33.PNG" width="150" height="150"></v-img>
               <v-card-text class="blue-grey--text">Color Combination 2017</v-card-text>
               <v-expand-transition>
                 <div v-if="hover" class="d-flex transition-fast-in-fast-out green v-card-reveal display-3 white--text" style="height: 100%">
@@ -88,7 +88,7 @@
                 <v-spacer></v-spacer>
                 <v-btn icon><v-icon>edit</v-icon></v-btn>
               </v-card-actions>
-              <v-img src="11.png" width="150" height="150"></v-img>
+              <v-img src="11.PNG" width="150" height="150"></v-img>
               <v-card-text class="blue-grey--text">Color Mixed 2019</v-card-text>
               <v-expand-transition>
                 <div v-if="hover" class="d-flex transition-fast-in-fast-out green v-card-reveal display-3 white--text" style="height: 100%">
@@ -110,7 +110,7 @@
                 <v-spacer></v-spacer>
                 <v-btn icon><v-icon>edit</v-icon></v-btn>
               </v-card-actions>
-              <v-img src="11.png" width="150" height="150"></v-img>
+              <v-img src="11.PNG" width="150" height="150"></v-img>
               <v-card-text class="blue-grey--text">Color Mixed 2019</v-card-text>
               <v-expand-transition>
                 <div v-if="hover" class="d-flex transition-fast-in-fast-out green v-card-reveal display-3 white--text" style="height: 100%">
@@ -132,7 +132,7 @@
                 <v-spacer></v-spacer>
                 <v-btn icon><v-icon>edit</v-icon></v-btn>
               </v-card-actions>
-              <v-img src="11.png" width="150" height="150"></v-img>
+              <v-img src="11.PNG" width="150" height="150"></v-img>
               <v-card-text class="blue-grey--text">Color Mixed 2019</v-card-text>
               <v-expand-transition>
                 <div v-if="hover" class="d-flex transition-fast-in-fast-out green v-card-reveal display-3 white--text" style="height: 100%">
@@ -154,7 +154,7 @@
                 <v-spacer></v-spacer>
                 <v-btn icon><v-icon>edit</v-icon></v-btn>
               </v-card-actions>
-              <v-img src="11.png" width="150" height="150"></v-img>
+              <v-img src="11.PNG" width="150" height="150"></v-img>
               <v-card-text class="blue-grey--text">Color Mixed 2019</v-card-text>
               <v-expand-transition>
                 <div v-if="hover" class="d-flex transition-fast-in-fast-out green v-card-reveal display-3 white--text" style="height: 100%">
@@ -176,7 +176,7 @@
                 <v-spacer></v-spacer>
                 <v-btn icon><v-icon>edit</v-icon></v-btn>
               </v-card-actions>
-              <v-img src="11.png" width="150" height="150"></v-img>
+              <v-img src="11.PNG" width="150" height="150"></v-img>
               <v-card-text class="blue-grey--text">Color Mixed 2019</v-card-text>
               <v-expand-transition>
                 <div v-if="hover" class="d-flex transition-fast-in-fast-out green v-card-reveal display-3 white--text" style="height: 100%">
